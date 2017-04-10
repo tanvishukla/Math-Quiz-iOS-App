@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C89BFA68B3E0822D680253430C3668433AE1D808",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3E3EC1797FF4EF353E8389A54A1E0725EF6DE29" : 9223372036854775807,
+    "C89BFA68B3E0822D680253430C3668433AE1D808" : 9223372036854775807,
+    "789C9BCC901795D1E3C3EADA81CC497E17C52060" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DFDBB418-AA68-4E1F-8267-DF3BD0751B12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3E3EC1797FF4EF353E8389A54A1E0725EF6DE29" : "MathQuiz\/",
+    "C89BFA68B3E0822D680253430C3668433AE1D808" : "iOS-Quiz-master\/",
+    "789C9BCC901795D1E3C3EADA81CC497E17C52060" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MathQuiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MathQuiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Nirupama-Prasad\/algo_ds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "789C9BCC901795D1E3C3EADA81CC497E17C52060"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Nirupama-Prasad\/iOS-Quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3E3EC1797FF4EF353E8389A54A1E0725EF6DE29"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Nirupama-Prasad\/ios_quiz_new_timer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C89BFA68B3E0822D680253430C3668433AE1D808"
+    }
+  ]
+}
